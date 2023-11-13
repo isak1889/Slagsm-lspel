@@ -1,0 +1,15 @@
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\bin\Debug\net6.0\Slagsmålspel.exe
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\bin\Debug\net6.0\Slagsmålspel.deps.json
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\bin\Debug\net6.0\Slagsmålspel.runtimeconfig.json
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\bin\Debug\net6.0\Slagsmålspel.dll
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\bin\Debug\net6.0\Slagsmålspel.pdb
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.csproj.AssemblyReference.cache
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.AssemblyInfoInputs.cache
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.AssemblyInfo.cs
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.csproj.CoreCompileInputs.cache
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.dll
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\refint\Slagsmålspel.dll
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.pdb
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\Slagsmålspel.genruntimeconfig.cache
+c:\Users\isak.eriksson4\proggramering\Slagsmålspel\Slagsmålspel\obj\Debug\net6.0\ref\Slagsmålspel.dll
